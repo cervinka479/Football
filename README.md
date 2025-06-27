@@ -35,7 +35,7 @@ pip install -r requirements.txt
 
 2. **Set Up API Keys**:
 
-    - Replace the placeholder API key in `src/main.py` with your OpenAI API key.
+    - Replace the placeholder API key in `.env` with your OpenAI API key.
 
 3. **Run the Application**:
 
