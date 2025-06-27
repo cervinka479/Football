@@ -91,10 +91,6 @@ README.md                # Project documentation
 requirements.txt         # Python dependencies
 ```
 
-### WIP Folder
-
-The `src/WIP` folder contains files that are currently under development and are **not intended for user usage**. These files may include experimental features or incomplete functionality.
-
 ---
 
 ## Example Usage
@@ -130,9 +126,3 @@ Sbohem!
 ## License
 
 This project is licensed under the MIT License. See the `LICENSE` file for details.
-
----
-
-## Contributing
-
-Contributions are welcome! Please submit a pull request or open an issue for any bugs or feature requests.
